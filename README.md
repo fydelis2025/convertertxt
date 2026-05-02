@@ -1,25 +1,25 @@
-# 🎮 Hacker Simulator RPG
-### Ambiente Interativo para Aprendizado Prático de Segurança Digital
+# 📄 ConverterTXT
+### Sistema Robusto para Processamento e Sanitização de Dados
 
 ---
 
 ## 📋 Sobre o Projeto
-O **Hacker Simulator RPG** é um jogo educativo desenvolvido em JavaScript, que simula um ambiente de terminal de inteligência e cenários realistas de segurança cibernética. Criado por **Adiel Santos Fontes** sob a marca **FydelisTech**, o projeto tem como objetivo ensinar conceitos e técnicas de hacking ético de forma prática, segura e envolvente.
+O **ConverterTXT** é uma solução desenvolvida em C# (.NET Framework 4.8), criada para realizar o processamento, limpeza e organização de grandes volumes de dados — com foco principal na manipulação de textos, contratos e documentos estruturados ou não.
 
-Os usuários enfrentam missões progressivas, aplicam comandos, analisam sistemas e resolvem desafios, tudo dentro de um ambiente controlado e alinhado às boas práticas da segurança da informação.
+Idealizado por **Adiel Santos Fontes**, o sistema conta com arquitetura modular bem definida, dividida em camadas de banco de dados, consulta, inserção e tratamento de caracteres, garantindo eficiência, confiabilidade e facilidade de manutenção.
 
-## 🚀 Objetivos e Conteúdos Abordados
-✅ Simulação fiel de ambientes de linha de comando  
-✅ Aprendizado de comandos e conceitos de sistemas operacionais e redes  
-✅ Introdução a técnicas de teste de invasão e avaliação de vulnerabilidades  
-✅ Cenários progressivos que evoluem em complexidade  
-✅ Ambiente seguro e livre de riscos para experimentação
+## 🚀 Funcionalidades Principais
+✅ Processamento em lote de arquivos de texto e documentos  
+✅ Sanitização de dados: remoção de acentos, caracteres especiais e formatações indesejadas  
+✅ Arquitetura modular com separação de responsabilidades  
+✅ Camadas estruturadas para banco de dados e regras de negócio  
+✅ Tratamento seguro e eficiente de grandes volumes de informações
 
 ## 🛠️ Tecnologias Utilizadas
-- `JavaScript` para lógica e interatividade
-- Simulação de comportamento de terminais e sistemas
-- Estrutura de progressão e narrativa gamificada
-- Conceitos teóricos e práticos de cibersegurança
+- `C#` e `.NET Framework 4.8`
+- Arquitetura de software modular
+- Manipulação avançada de strings e arquivos
+- Integração com bancos de dados relacionais
 
 ## 👤 Autor
 **Adiel Santos Fontes**  
